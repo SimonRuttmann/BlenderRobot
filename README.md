@@ -33,3 +33,6 @@ Test 7
   <source src="assets/BlackRobotAsMp4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+Test 8
+![Demo](assets/WeißesGif.gif)
