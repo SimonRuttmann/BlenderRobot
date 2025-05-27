@@ -1,38 +1,73 @@
-# Test
+# 🤖 It is a Robot!
 
-Test 1
+Welcome to my very first 3D project in **Blender** – and yes, *It is a Robot!*  
+This mechanical buddy was built from scratch and is ready to show off its style, structure, and sweet dance moves.
 
-![Demo](assets/BlackRobot15Mb.gif)
+![Robo Front View](media/img/Robo_Colour_Full_Front_View_Lighting.png)
 
-Test 2 
+---
 
-![Demo](assets/BlackRobotVideo49Mb.mkv)
+## 🛠️ It is a Robot – A cool journey!
 
-Test 3
+Creating this robot was my introduction to Blender. I did this project as part of a lecture at Aalen University
+where I was studying. Here's how the process went:
 
-[📹 Demo-Video ansehen](assets/BlackRobotVideo49Mb.mkv)
+### 🧩 Building the Bot
+From basic shapes to detailed geometry - and of course, creating a little bit of mess on the way is just part of it.
 
-Test 4
+![Assembly GIF](media/gifs/Blender_Robo_SingleParts.gif)
 
-<video src="assets/BlackRobotVideo49Mb.mkv" autoplay loop muted playsinline width="600">
-  Dein Browser unterstützt kein HTML5-Video.
-</video>
+- I started with **low poly modeling**
+- Created a lot of small components for detailing
+- Went to a much more **high poly design**
+- Sculpted the body for the **high poly finish**
+- Had a lot of fun and learned a ton along the way!
 
-Test 5
+🎥 Showcase:
+![Showcase White](media/gifs/Robo_Showcase_White.gif)
 
-![Demo](assets/BlackRobotAsMp4.mp4)
+---
 
+### 🎨 Texturing & Shading
 
-Test 6
+Using Blender's Shader Editor, I tried creating a clean and colorful look.
+I also played a lot with lighting and reflections.
 
-![Demo](assets/BlackRobotAsMp4.mp4)
+📸 Eventually I ended up with something like this:
+![Short Colour GIF](media/gifs/Robo_Short_Showcase_Colour.gif)
 
-Test 7 
+---
 
-<video width="640" height="360" controls>
-  <source src="assets/BlackRobotAsMp4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎬 It is a Robot – With Animations!
 
-Test 8
-![Demo](assets/WeißesGif.gif)
+And then... it moved!  
+Rigging the robot with bones and controllers opened up the next level.
+Now this beast is on the way - you better dont stop it!
+
+![Rigging Preview](media/Blender_Robo_White.gif)
+
+Using the rig, I created **three key animations**:
+
+- **Idle** – just chilling, waiting for some input
+- **Running** – on the way
+- **Dancing** – because why not?
+
+| Idle                                       | Running                                                            | Dancing                                                                   |
+|--------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![Idle](media/gifs/idle/Robo_Idle_Colour_Front_View.gif) | ![Running](media/gifs/walk/Robo_Walking_Black_Grid_Front_View.gif) | ![Dancing](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif)                    |
+| ![Idle Alt](media/gifs/idle/Robo_Idle_White_Front_View.gif) | ![Running Alt](media/gifs/walk/Robo_Walking_White_Front_View.gif)            | ![Dancing Alt](media/gifs/dance/Robo_Dance_Color_Front_View.gif)                     |
+| ![Idle Style 3](media/gifs/idle/Robo_Idle_White_Grid_Front_View.gif) | ![Running Style 3](media/gifs/walk/Robo_Walking_White_Top_View.gif)          | ![Dancing Style 3](media/gifs/dance/Robo_Dance_White_Grid_Front_View.gif) |
+## 🎬 What a journey!
+I really enjoyed learning
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use or remix it – just give proper credit. 🤝
+
+---
+
+> 🧠 First time using Blender, and already dreaming of more bots.  
+> ⭐ Drop a star if you liked it, and feel free to reach out!
