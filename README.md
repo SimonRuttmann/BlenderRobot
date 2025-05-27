@@ -72,7 +72,9 @@ Using the rig, I created **three key animations**:
   ![Dancing](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif)
 
 ## 🎬 What a journey!
-I really enjoyed learning to model, texture, rig and animate 3d models!
+
+I had a great time doing that beast! And of course I spent waaay to many nights on it, but the results are really cool!
+I really enjoyed learning to model, texture, rig and animate 3d models! This was the first time i was using Blender, and i am already dreaming of more bots.
 
 ---
 
@@ -80,8 +82,3 @@ I really enjoyed learning to model, texture, rig and animate 3d models!
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to use or remix it – just give proper credit. 🤝
-
----
-
-> 🧠 First time using Blender, and already dreaming of more bots.  
-> ⭐ Drop a star if you liked it, and feel free to reach out!
