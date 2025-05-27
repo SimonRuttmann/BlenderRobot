@@ -1,6 +1,6 @@
 # 🤖 It is a Robot!
-
 Welcome to my very first 3D project in **Blender** – and yes, *It is a Robot!*  
+![Robo Front View](media/img/Robo_Black_Head_Front_View.png)
 This mechanical buddy was built from scratch and is ready to show off its style, structure, and sweet dance moves.
 
 ![Robo Front View](media/img/Robo_Colour_Full_Front_View_Lighting.png)
@@ -82,3 +82,19 @@ I really enjoyed learning to model, texture, rig and animate 3d models! This was
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to use or remix it – just give proper credit. 🤝
+
+---
+
+## Gallery
+
+🎬 [Watch black robo showcase (MKV)](media/video/Robo_Showcase_Black.mkv)
+
+🎬 [Watch white robo showcase (MKV)](media/video/Robo_Showcase_White.mkv)
+
+| ![Dancing](media/img/Robo_Colour_Full_Front_View_Lighting_2.png) |
+|------------------------------------------------------------------|
+| ![Dancing](media/img/Robo_Grey_Full_Front_View.png)              |
+| ![Run](media/img/Robo_Silver_Full_Front_View.png)                |
+| ![Dancing Alt](media/img/Robo_Grey_Top_Back_View.png)            |
+| ![Dancing Alt](media/img/Robo_Colour_Full_Front_View_Bones.png)  |
+| ![Dancing Alt](media/img/Robo_Black_Full_Front_View.png)         |
