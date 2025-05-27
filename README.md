@@ -52,10 +52,10 @@ Using the rig, I created **three key animations**:
 - **Idle** – just chilling, waiting for some input
 - **Dancing** – because why not?
 
-| ![Idle](media/gifs/idle/Robo_Idle_Colour_Front_View.gif)          | ![Running](media/gifs/walk/Robo_Walking_Black_Grid_Front_View.gif) | ![Idle Alt](media/gifs/idle/Robo_Idle_White_Front_View.gif)               |
-|-------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|
-| ![Running Alt](media/gifs/walk/Robo_Walking_White_Front_View.gif) | ![Idle Alt](media/gifs/idle/Robo_Idle_White_Front_View.gif)        | ![Dancing Style 3](media/gifs/dance/Robo_Dance_White_Grid_Front_View.gif) |
-| ![Dancing](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif) | ![Dancing Alt](media/gifs/dance/Robo_Dance_Color_Front_View.gif)   | ![Running Style 3](media/gifs/walk/Robo_Walking_White_Top_View.gif)       |
+| ![](media/gifs/idle/Robo_Idle_Colour_Front_View.gif)       | ![](media/gifs/walk/Robo_Walking_Black_Grid_Front_View.gif) | ![](media/gifs/idle/Robo_Idle_White_Front_View.gif)        |
+|------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
+| ![](media/gifs/walk/Robo_Walking_White_Front_View.gif)     | ![](media/gifs/idle/Robo_Idle_White_Front_View.gif)         | ![](media/gifs/dance/Robo_Dance_White_Grid_Front_View.gif) |
+| ![](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif) | ![](media/gifs/dance/Robo_Dance_Color_Front_View.gif)       | ![](media/gifs/walk/Robo_Walking_White_Top_View.gif)       |
 
 - **Running** – on the way 🏃
 
@@ -91,10 +91,10 @@ Feel free to use or remix it – just give proper credit. 🤝
 
 🎬 [Watch white robo showcase (MKV)](media/video/Robo_Showcase_White.mkv)
 
-| ![Dancing](media/img/Robo_Colour_Full_Front_View_Lighting_2.png) |
+| ![](media/img/Robo_Colour_Full_Front_View_Lighting_2.png) |
 |------------------------------------------------------------------|
-| ![Dancing](media/img/Robo_Grey_Full_Front_View.png)              |
-| ![Run](media/img/Robo_Silver_Full_Front_View.png)                |
-| ![Dancing Alt](media/img/Robo_Grey_Top_Back_View.png)            |
-| ![Dancing Alt](media/img/Robo_Colour_Full_Front_View_Bones.png)  |
-| ![Dancing Alt](media/img/Robo_Black_Full_Front_View.png)         |
+| ![](media/img/Robo_Grey_Full_Front_View.png)              |
+| ![](media/img/Robo_Silver_Full_Front_View.png)                |
+| ![](media/img/Robo_Grey_Top_Back_View.png)            |
+| ![](media/img/Robo_Colour_Full_Front_View_Bones.png)  |
+| ![](media/img/Robo_Black_Full_Front_View.png)         |
