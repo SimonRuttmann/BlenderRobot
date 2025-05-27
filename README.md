@@ -3,7 +3,7 @@ Welcome to my very first 3D project in **Blender** – and yes, *It is a Robot!*
 ![Robo Front View](media/img/Robo_Black_Head_Front_View.png)
 This mechanical buddy was built from scratch and is ready to show off its style, structure, and sweet dance moves.
 
-![Robo Front View](media/img/Robo_Colour_Full_Front_View_Lighting.png)
+![Robo Front View](media/img/Robo_Colour_Full_Front_View_Lighting_2.png)
 
 ---
 
@@ -91,10 +91,10 @@ Feel free to use or remix it – just give proper credit. 🤝
 
 🎬 [Watch white robo showcase (MKV)](media/video/Robo_Showcase_White.mkv)
 
-| ![](media/img/Robo_Colour_Full_Front_View_Lighting_2.png) |
-|------------------------------------------------------------------|
-| ![](media/img/Robo_Grey_Full_Front_View.png)              |
-| ![](media/img/Robo_Silver_Full_Front_View.png)                |
-| ![](media/img/Robo_Grey_Top_Back_View.png)            |
-| ![](media/img/Robo_Colour_Full_Front_View_Bones.png)  |
-| ![](media/img/Robo_Black_Full_Front_View.png)         |
+| ![](media/img/Robo_Colour_Full_Front_View_Lighting.png) |
+|---------------------------------------------------------|
+| ![](media/img/Robo_Grey_Full_Front_View.png)            |
+| ![](media/img/Robo_Silver_Full_Front_View.png)          |
+| ![](media/img/Robo_Grey_Top_Back_View.png)              |
+| ![](media/img/Robo_Colour_Full_Front_View_Bones.png)    |
+| ![](media/img/Robo_Black_Full_Front_View.png)           |
