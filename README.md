@@ -56,8 +56,9 @@ Using the rig, I created **three key animations**:
 |-------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|
 | ![Running Alt](media/gifs/walk/Robo_Walking_White_Front_View.gif) | ![Idle Alt](media/gifs/idle/Robo_Idle_White_Front_View.gif)        | ![Dancing Style 3](media/gifs/dance/Robo_Dance_White_Grid_Front_View.gif) |
 | ![Dancing](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif) | ![Dancing Alt](media/gifs/dance/Robo_Dance_Color_Front_View.gif)   | ![Running Style 3](media/gifs/walk/Robo_Walking_White_Top_View.gif)       |
+
 ## 🎬 What a journey!
-I really enjoyed learning
+I really enjoyed learning to model, texture, rig and animate 3d model!
 
 ---
 
