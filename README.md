@@ -9,19 +9,19 @@ This mechanical buddy was built from scratch and is ready to show off its style,
 
 ## 🛠️ It is a Robot – A cool journey!
 
-Creating this robot was my introduction to Blender. I did this project as part of a lecture at Aalen University
-where I was studying. Here's how the process went:
+Creating this robot was my introduction to Blender. I worked on this project as part of a university course at 
+**Aalen University**, where I was studying. Here's how the journey went:
 
 ### 🧩 Building the Bot
-From basic shapes to detailed geometry - and of course, creating a little bit of mess on the way is just part of it.
+From basic shapes to detailed geometry – and of course, making a bit of a mess along the way was just part of the fun.
 
 ![Assembly GIF](media/gifs/Blender_Robo_SingleParts.gif)
 
 - I started with **low poly modeling**
-- Created a lot of small components for detailing
+- Created a lot of small components for **detailing**
 - Went to a much more **high poly design**
-- Sculpted the body for the **high poly finish**
-- Had a lot of fun and learned a ton along the way!
+- **Sculpted** for the **smooth design** of the chest
+- Had a lot of fun and learned a *ton* along the way!
 
 🎥 Showcase:
 ![Showcase White](media/gifs/Robo_Showcase_White.gif)
@@ -30,8 +30,8 @@ From basic shapes to detailed geometry - and of course, creating a little bit of
 
 ### 🎨 Texturing & Shading
 
-Using Blender's Shader Editor, I tried creating a clean and colorful look.
-I also played a lot with lighting and reflections.
+Using Blender’s Shader Editor, I aimed for a clean and colorful look.
+I also experimented *a lot* with lighting and reflections to bring this robot to life.
 
 📸 Eventually I ended up with something like this:
 ![Short Colour GIF](media/gifs/Robo_Short_Showcase_Colour.gif)
@@ -42,15 +42,15 @@ I also played a lot with lighting and reflections.
 
 And then... it moved!  
 Rigging the robot with bones and controllers opened up the next level.
-Now this beast is on the way - you better dont stop it!
+Now this beast is on the way - you better don't stop it!
 
 ![Rigging Preview](media/gifs/Blender_Robo_White.gif)
 
 Using the rig, I created **three key animations**:
 
-- **Running** – on the way
-- **Idle** – just chilling, waiting for some input
-- **Dancing** – because why not?
+- **Running** – on the way 🏃
+- **Idle** – just chilling, waiting for some input 💤
+- **Dancing** – because why not? 🕺
 
 | ![](media/gifs/idle/Robo_Idle_Colour_Front_View.gif)       | ![](media/gifs/walk/Robo_Walking_Black_Grid_Front_View.gif) | ![](media/gifs/idle/Robo_Idle_White_Front_View.gif)        |
 |------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
@@ -68,13 +68,15 @@ Using the rig, I created **three key animations**:
   ![Idle](media/gifs/idle/Robo_Idle_Colour_Front_View.gif)
 - **Dancing** – because why not? 🕺
 
-   If you encounter me in the disco, this is actually quite close to how you would see me dancing
+   If you encounter me in the disco, this is actually quite close to how you would see me dancing.
   ![Dancing](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif)
 
-## 🎬 What a journey!
+### 🎬 What a journey!
 
-I had a great time doing that beast! And of course I spent waaay to many nights on it, but the results are really cool!
-I really enjoyed learning to model, texture, rig and animate 3d models! This was the first time i was using Blender, and i am already dreaming of more bots.
+I had a great time doing that beast!
+Yes, I spent waaay too many nights on it – but I’m super proud of the result.
+I really enjoyed learning to **model**, **texture**, **rig** and **animate** 3d models! 
+This was the first time I was using Blender, and I am already dreaming of more bots.
 
 ---
 
