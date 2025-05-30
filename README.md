@@ -54,24 +54,24 @@ Using the rig, I created **three key animations**:
 - **Idle** – just chilling, waiting for some input 💤
 - **Dancing** – because why not? 🕺
 
-| ![](media/gifs/idle/Robo_Idle_Colour_Front_View.gif)       | ![](media/gifs/walk/Robo_Walking_Black_Grid_Front_View.gif) | ![](media/gifs/idle/Robo_Idle_White_Front_View.gif)        |
+| ![](media/gifs/Robo_Idle_Colour_Front_View.gif)       | ![](media/gifs/Robo_Walking_Black_Grid_Front_View.gif) | ![](media/gifs/Robo_Idle_White_Front_View.gif)        |
 |------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
-| ![](media/gifs/walk/Robo_Walking_White_Front_View.gif)     | ![](media/gifs/idle/Robo_Idle_White_Front_View.gif)         | ![](media/gifs/dance/Robo_Dance_White_Grid_Front_View.gif) |
-| ![](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif) | ![](media/gifs/dance/Robo_Dance_Color_Front_View.gif)       | ![](media/gifs/walk/Robo_Walking_White_Top_View.gif)       |
+| ![](media/gifs/Robo_Walking_White_Front_View.gif)     | ![](media/gifs/Robo_Idle_White_Front_View.gif)         | ![](media/gifs/Robo_Dance_White_Grid_Front_View.gif) |
+| ![](media/gifs/Robo_Dance_Black_Grid_Front_View.gif) | ![](media/gifs/Robo_Dance_Color_Front_View.gif)       | ![](media/gifs/Robo_Walking_White_Top_View.gif)       |
 
 - **Running** – on the way 🏃
 
    The running animation was my first animation I created with the rig. It was actually quite the challenge! The result looks quite humanoid.
-  ![Running](media/gifs/walk/Robo_Walking_Black_Grid_Front_View.gif)
+  ![Running](media/gifs/Robo_Walking_Black_Grid_Front_View.gif)
 
 - **Idle** – just chilling, waiting for some input 💤
 
   Here I was able to really live out my creative side again. The animation actually consists of a series of chained, independent sub-animations.
-  ![Idle](media/gifs/idle/Robo_Idle_Colour_Front_View.gif)
+  ![Idle](media/gifs/Robo_Idle_Colour_Front_View.gif)
 - **Dancing** – because why not? 🕺
 
    If you encounter me in the disco, this is actually quite close to how you would see me dancing.
-  ![Dancing](media/gifs/dance/Robo_Dance_Black_Grid_Front_View.gif)
+  ![Dancing](media/gifs/Robo_Dance_Black_Grid_Front_View.gif)
 
 ### 🎬 What a journey!
 
