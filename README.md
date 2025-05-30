@@ -93,10 +93,21 @@ Feel free to use or remix it – just give proper credit. 🤝
 
 🎬 [Watch white robo showcase (MKV)](media/video/Robo_Showcase_White.mkv)
 
-| ![](media/img/Robo_Colour_Full_Front_View_Lighting.png) |
-|---------------------------------------------------------|
-| ![](media/img/Robo_Grey_Full_Front_View.png)            |
-| ![](media/img/Robo_Silver_Full_Front_View.png)          |
-| ![](media/img/Robo_Grey_Top_Back_View.png)              |
-| ![](media/img/Robo_Colour_Full_Front_View_Bones.png)    |
-| ![](media/img/Robo_Black_Full_Front_View.png)           |
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 500px; margin: auto;">
+
+  <img src="media/img/Robo_Colour_Full_Front_View_Lighting.png" alt="Robo Color Lighting" width="100%">
+  <img src="media/img/Robo_Grey_Full_Front_View.png" alt="Robo Grey Front View" width="100%">
+  <img src="media/img/Robo_Silver_Full_Front_View.png" alt="Robo Silver Front View" width="100%">
+  <img src="media/img/Robo_Grey_Top_Back_View.png" alt="Robo Top Back Grey View" width="100%">
+  <img src="media/img/Robo_Colour_Full_Front_View_Bones.png" alt="Robo Color Front Bones" width="100%">
+  <img src="media/img/Robo_Black_Full_Front_View.png" alt="Robo Black Front View" width="100%">
+
+</div>
+
+![Robo Front – Color Lighting](media/img/Robo_Colour_Full_Front_View_Lighting.png)  
+![Robo Front – Grey](media/img/Robo_Grey_Full_Front_View.png)  
+![Robo Front – Silver](media/img/Robo_Silver_Full_Front_View.png)  
+![Robo Top Back – Grey](media/img/Robo_Grey_Top_Back_View.png)  
+![Robo Front – Color with Bones](media/img/Robo_Colour_Full_Front_View_Bones.png)  
+![Robo Front – Black](media/img/Robo_Black_Full_Front_View.png)
