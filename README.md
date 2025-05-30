@@ -4,7 +4,7 @@ Welcome to my very first 3D project in **Blender** – and yes, *It is a Robot!*
 This mechanical buddy was built from scratch and is ready to show off its style, structure, and sweet dance moves.
 
 <div align="center">
-  <img src="media/img/Robo_Colour_Full_Front_View_Lighting_2.png" alt="Robo Front View" width="70%">
+  <img src="media/img/Robo_Colour_Full_Front_View_Lighting_2.png" alt="Robo Front View" width="446">
 </div>
 
 ![Robo Front View](media/img/Robo_Colour_Full_Front_View_Lighting_2.png)
