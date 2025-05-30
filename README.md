@@ -89,6 +89,19 @@ Feel free to use or remix it – just give proper credit. 🤝
 
 ---
 
+## 📦 Downloads & Releases
+
+Looking for the files?  
+➡️ **[Click here to download the latest release](https://github.com/SimonRuttmann/Test/releases/latest)**
+
+Includes:
+
+- ✅ Full robot (`.blend`)
+- ✅ Single parts of the robot (`.blend`)
+- ✅ Exported FBX version (`.fbx`)
+
+---
+
 ## Gallery
 
 🎬 [Watch black robo showcase (MKV)](media/video/Robo_Showcase_Black.mkv)
