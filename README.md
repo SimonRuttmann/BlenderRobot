@@ -7,8 +7,6 @@ This mechanical buddy was built from scratch and is ready to show off its style,
   <img src="media/img/Robo_Colour_Full_Front_View_Lighting_2.png" alt="Robo Front View" width="446">
 </div>
 
-![Robo Front View](media/img/Robo_Colour_Full_Front_View_Lighting_2.png)
-
 ---
 
 ## 🛠️ It is a Robot – A cool journey!
