@@ -84,7 +84,7 @@ This was the first time I was using Blender, and I am already dreaming of more b
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
 Feel free to use or remix it – just give proper credit. 🤝
 
 ---
