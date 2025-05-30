@@ -92,7 +92,7 @@ Feel free to use or remix it – just give proper credit. 🤝
 ## 📦 Downloads & Releases
 
 Looking for the files?  
-➡️ **[Click here to download the latest release](https://github.com/SimonRuttmann/Test/releases/latest)**
+➡️ **[Click here to download the latest release](https://github.com/SimonRuttmann/BlenderRobot/releases/tag/v1.0.0)**
 
 Includes:
 
