@@ -98,11 +98,11 @@ Feel free to use or remix it – just give proper credit. 🤝
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 500px; margin: auto;">
 
-  <img src="media/img/Robo_Colour_Full_Front_View_Lighting.png" alt="Robo Color Lighting" width="100%">
-  <img src="media/img/Robo_Grey_Full_Front_View.png" alt="Robo Grey Front View" width="100%">
-  <img src="media/img/Robo_Silver_Full_Front_View.png" alt="Robo Silver Front View" width="100%">
-  <img src="media/img/Robo_Grey_Top_Back_View.png" alt="Robo Top Back Grey View" width="100%">
-  <img src="media/img/Robo_Colour_Full_Front_View_Bones.png" alt="Robo Color Front Bones" width="100%">
-  <img src="media/img/Robo_Black_Full_Front_View.png" alt="Robo Black Front View" width="100%">
+  <img src="media/img/Robo_Colour_Full_Front_View_Lighting.png" alt="Robo Color Lighting" width="70%">
+  <img src="media/img/Robo_Grey_Full_Front_View.png" alt="Robo Grey Front View" width="70%">
+  <img src="media/img/Robo_Silver_Full_Front_View.png" alt="Robo Silver Front View" width="70%">
+  <img src="media/img/Robo_Grey_Top_Back_View.png" alt="Robo Top Back Grey View" width="70%">
+  <img src="media/img/Robo_Colour_Full_Front_View_Bones.png" alt="Robo Color Front Bones" width="70%">
+  <img src="media/img/Robo_Black_Full_Front_View.png" alt="Robo Black Front View" width="70%">
 
 </div>
