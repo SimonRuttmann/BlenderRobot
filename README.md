@@ -99,6 +99,8 @@ Includes:
 - ✅ Full robot (`.blend`)
 - ✅ Single parts of the robot (`.blend`)
 - ✅ Exported FBX version (`.fbx`)
+- ✅ Exported OBJ version (`.obj`)
+- ✅ Exported STL version (`.stl`)
 
 ---
 
