@@ -48,6 +48,21 @@ Now this beast is on the way - you better don't stop it!
 
 ![Rigging Preview](media/gifs/Blender_Robo_White.gif)
 
+### 🦴 Rigging
+
+To bring the robot to life, I added a complete **armature** – and not just a small one!
+
+- The rig consists of a total of **44 bones** 🦿
+- Each bone is linked to a **specific part** of the robot
+- This setup allowed me to control every component individually
+- The result? **Super smooth and natural animations**
+
+Creating the rig was a detailed and satisfying task – and it made the animation process so much more powerful and flexible.
+
+![Rigging Bones](media/gifs/Robo_Grey_Full_Front_View_Parts.gif)
+
+### ⏯️ Animation
+
 Using the rig, I created **three key animations**:
 
 - **Running** – on the way 🏃
